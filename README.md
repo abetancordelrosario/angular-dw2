@@ -4,7 +4,7 @@ Está primera práctica de angular a partir de uno los tutoriales ofrecidos por 
 
 Desde mi punto de vista está actividad me ha ayudado mucho a comprender el funcionamiento de este tipo de frameworks basados en componentes, además, de servirme de apoyo en otras asignaturas en las que por ejemplo estoy utilizando Node.js.
 
-El lenguaje utilizado ha sido principlamente TypeScript, además de lenguajes de maquetado cmo HTML o CSS. Añadir que se realizarón una serie de modificaciones estéticas respecto al tutorial inical. Adjunto link al proyeto
+El lenguaje utilizado ha sido principlamente TypeScript, además de lenguajes de maquetado cmo HTML o CSS. Añadir que se realizarón una serie de modificaciones estéticas respecto al tutorial inical. Adjunto link al proyeto https://abetancordelrosario.github.io/angular-dw2/dashboard 
 
 Requisitos:
 
